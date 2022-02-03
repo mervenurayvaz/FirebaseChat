@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562063353455",
+    "firebase_url": "https://chatuygulamasi-9c111-default-rtdb.firebaseio.com",
+    "project_id": "chatuygulamasi-9c111",
+    "storage_bucket": "chatuygulamasi-9c111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562063353455:android:e1de331fa9c5c447efcf9a",
+        "android_client_info": {
+          "package_name": "com.alp.chatuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562063353455-71an26n43g1nf6dh2l0ctmsoj1ot22fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgiMNjNx8lbyPwXqn_WC9BNrs7x9bXfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562063353455-71an26n43g1nf6dh2l0ctmsoj1ot22fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
